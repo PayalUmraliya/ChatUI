@@ -6,7 +6,7 @@ An example of chat user interface screen. This library is the basic demo of chat
 
 ###### DEMO OUTPUT
 
-<img src="https://github.com/PayalUmraliya/ChatUI/blob/master/letstalk.gif" width="320" height="564"/>
+<img src="https://github.com/PayalUmraliya/ChatUI/blob/master/letstalkdemo.gif" width="320" height="564"/>
 
 ###### LICENSE
 
