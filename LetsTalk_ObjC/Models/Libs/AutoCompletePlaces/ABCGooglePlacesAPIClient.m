@@ -1,7 +1,7 @@
 #import "ABCGooglePlacesAPIClient.h"
 #import "ABCGoogleAutoCompleteResult.h"
 
-NSString *const apiKey = @"AIzaSyCc-XPpHskmvNVI5zH7T52Kvgja829p6Ek";
+NSString *const apiKey = @"YOUR APIKEY HERE";
 
 @interface ABCGooglePlacesAPIClient ()
 
