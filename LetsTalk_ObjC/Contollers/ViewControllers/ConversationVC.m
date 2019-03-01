@@ -702,7 +702,7 @@ typedef void(^compeletionData)(BOOL,NSMutableDictionary*);
 {
     if(frame.origin.y != SCREEN_HEIGHT)
     {
-        self.bottominput.constant = frame.size.height;
+        self.bottominput.constant = frame.size.height - (UIApplication.sharedApplication.keyWindow.safeAreaInsets.bottom);
         [self tableViewScrollToBottomAnimated:false];
     }
     else
