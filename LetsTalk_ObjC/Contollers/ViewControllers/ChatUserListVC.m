@@ -2,8 +2,8 @@
 //  ChatUserListVC.m
 //  LetsTalk_ObjC
 //
-//  Created by Admin on 06/02/18.
-//  Copyright © 2018 Vishwkarma. All rights reserved.
+//  Created by Payal on 23/01/21.
+//  Copyright © 2021 TheKarma. All rights reserved.
 //
 
 #import "ChatUserListVC.h"
