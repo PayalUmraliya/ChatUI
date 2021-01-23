@@ -8,15 +8,28 @@ An example of chat user interface screen. This library is the basic demo of chat
 
 <img src="https://github.com/PayalUmraliya/ChatUI/blob/master/letstalkdemo.gif" width="320" height="564"/>
 
-###### LICENSE
-
-[The MIT License](LICENSE)
-ChatUI is available under the MIT license. See the LICENSE file for more info.
 
 ###### DETAILS
 
 Check and copy the conversationvc file to see the UI. 
 
-###### AUTHOR
+#### USAGE
 
-PayalUmraliya, behappy78600@gmail.com
+Complete copy the view controller named ConversationVC file to use in your project
+
+```
+#import "ConversationVC.h"
+```
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2021 TheKarma
+
+
+## Author
+
+Payal Umraliya [behappy78600@gmail.com] 
+
+ツツツツツツ
